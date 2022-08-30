@@ -20,10 +20,10 @@ The goal of this project is to answer the following questions:
 
 ### File Description
 There is a notebook showing the work to answer the above questions.
-The used data can be found here: [https://www.kaggle.com/datasets/airbnb/seattle]
+The used data can be found here: https://www.kaggle.com/datasets/airbnb/seattle
 
 ### Result Summary
-The main findings can be found in the code and are discussed in the post [here] (https://medium.com/@thomas.grassinger/what-can-us-the-seattle-airbnb-open-data-tell-2835f71d2ad2)
+The main findings can be found in the code and are discussed in the post here: https://medium.com/@thomas.grassinger/what-can-us-the-seattle-airbnb-open-data-tell-2835f71d2ad2
 
 ### Acknowledges
 I want to thank the whole udacity team for the opportunity to work on this project and also Airbnb for providing the data.
